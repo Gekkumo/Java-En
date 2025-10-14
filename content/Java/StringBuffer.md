@@ -90,5 +90,3 @@ buffer.append("Hello").append(" ").append("World");  // method chaining
 String result = buffer.toString();
 
 Если многопоточность не нужна — **используйте `StringBuilder`**.
-
-#Программирование #Java 
