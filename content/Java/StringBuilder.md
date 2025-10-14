@@ -82,5 +82,3 @@ public String toString() {
 StringBuilder sb = new StringBuilder(128);  // задаём начальный размер, если знаем длину
 sb.append("Hello").append(" ").append("World");  // method chaining
 String result = sb.toString();
-
-#Программирование #Java 
